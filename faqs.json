@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a branch of AI that enables computers to learn from data."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language used for web development, data science, AI, and automation."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing is a field of AI that enables computers to understand human language."
+    },
+    {
+        "question": "What is ChatGPT?",
+        "answer": "ChatGPT is an AI chatbot developed by OpenAI that can understand and generate human-like text."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program that can simulate conversations with users."
+    }
+]
