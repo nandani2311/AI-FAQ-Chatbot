@@ -51,7 +51,7 @@ python chatbot_gui.py
 
 ## 📸 Screenshot
 
-Place your chatbot screenshot inside the **screenshots** folder.
+![AI FAQ Chatbot](screenshots/chatbot.png)
 
 ## 👩‍💻 Author
 
